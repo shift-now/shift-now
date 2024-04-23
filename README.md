@@ -5,7 +5,7 @@ Hi 👋 We're Shift Now
 
 <img src="https://komarev.com/ghpvc/?username=shift-now&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="shift-now"/>
 
-- 📫 How to reach me **saadstudent.cs@gmail.com**
+- 📫 How to reach me **shift.now.alt@gmail.com**
 
 <b>My GitHub Stats</b>
 
